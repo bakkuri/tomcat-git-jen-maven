@@ -38,7 +38,8 @@ echo Java Home path: /usr/java/jdk1.8.0_131
 
 #Maven Setup:
 echo Maven Setup:
-#Download maven:
+#Download maven: https://maven.apache.org/download.cgi
+
 echo Download maven:
 sudo wget http://apache.mirrors.lucidnetworks.net/maven/maven-3/3.5.3/binaries/apache-maven-3.5.3-bin.tar.gz
 
